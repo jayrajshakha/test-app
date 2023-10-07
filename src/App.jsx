@@ -6,6 +6,8 @@ const App = () => {
       <h1>JAY Rajshakha</h1>
       <h1>Vish Rajshakha</h1>
       <A />
+      <A />
+      <A />
     </div>
   )
 }
